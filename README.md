@@ -3,7 +3,7 @@
 ![Build Status](https://travis-ci.org/klugjo/hexo-autolinker.svg?branch=master)
 [![License][license-image]][license]
 
-<img src="https://github.com/mohit2530/LawnSprinklerSystem/blob/master/notes-sm.png"
+<img src="https://github.com/mohit2530/react-practice/blob/main/notes-withouthttp/img/notes-sm.png"
  alt="" title="Sprinklers" align="right" width="400px" height="400px" />
 
 
