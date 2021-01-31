@@ -63,7 +63,7 @@ limitations under the License.
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 
-[techdocs]: https://github.com/mohit2530/react-practice/blob/master/techdocs.md
+[techdocs]: https://github.com/mohit2530/react-practice/blob/main/notes-withouthttp/techdocs.md
 [setup]: https://github.com/mohit2530/react-practice
 [roadmap]: https://github.com/mohit2530/react-practice
 [contributing]: https://github.com/mohit2530/react-practice
